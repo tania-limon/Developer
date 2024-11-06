@@ -52,7 +52,7 @@
     background-image:url("D:/PROJECT/image/mary.jpg");
     background-position: cover;
     background-repeat: no-repeat;
-   translate: 16px -59px;
+   translate: 16px 4px;
 }
 .b1{
     display: flex;
