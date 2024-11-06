@@ -3,7 +3,7 @@
     padding: 0;
 }
 #hero{
-    height:600px;
+    height:550px;
     width:100%;
     background-color:#FFFAF0;
   }
@@ -11,8 +11,8 @@
   writing-mode: vertical-lr;
   transform: rotate(180deg);
   font-family: Arial, Helvetica, sans-serif;
-  margin:35px 0 ;
-  font-size:75px;
+  margin:39px 0 ;
+  font-size:67px;
   font-weight:600;
   color:#bbb;
  padding:auto auto;
@@ -52,7 +52,7 @@
     background-image:url("D:/PROJECT/image/mary.jpg");
     background-position: cover;
     background-repeat: no-repeat;
-   translate: 16px 4px;
+   translate: 15px 2px;
 }
 .b1{
     display: flex;
